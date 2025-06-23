@@ -1,5 +1,4 @@
-##### Data cleaning ####
-##### Gamachis and Gezahegn
+
 
 ### set your working directory
 getwd()
